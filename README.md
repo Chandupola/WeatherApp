@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather Forecasting API
 
 Bienvenue dans WeatherApi, un projet ASP.NET Core 8 permettant d'interagir avec une API météo tierce.
@@ -88,3 +89,6 @@ Endpoint : `/api/forecast`
 - **Exemple** : [http://localhost:5000/api/forecast?q=Paris](http://localhost:5000/api/forecast?q=Paris)
 
 
+=======
+# WeatherApp
+>>>>>>> f812bc66ffd3d5cf31569c63a8a2137142f62480
